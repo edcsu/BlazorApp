@@ -282,3 +282,14 @@ obj/Debug/net5.0/BlazorApp.TagHelpers.output.cache
 obj/Debug/net5.0/BlazorApp.pdb
 obj/Debug/net5.0/BlazorApp.dll
 bin/Debug/net5.0/BlazorApp.Views.pdb
+bin/Debug/net5.0/BlazorApp.dll
+obj/Debug/net5.0/BlazorApp.pdb
+obj/Debug/net5.0/BlazorApp.RazorComponent.input.cache
+obj/Debug/net5.0/BlazorApp.RazorCoreGenerate.cache
+obj/Debug/net5.0/BlazorApp.TagHelpers.output.cache
+obj/Debug/net5.0/BlazorApp.Views.dll
+*.pdb
+obj/Debug/net5.0/ref/BlazorApp.dll
+obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+obj/Debug/net5.0/RazorDeclaration/BlazorApp.pdb
+obj/Debug/net5.0/RazorDeclaration/BlazorApp.dll
