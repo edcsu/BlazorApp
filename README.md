@@ -1,0 +1,2 @@
+# BlazorApp
+ A blazor app
